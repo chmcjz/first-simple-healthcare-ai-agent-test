@@ -5,7 +5,8 @@ from ollama import Client
 
 from data_loader import load_tables
 import tools as T
-from agent import route_to_tool, run_tool, llm_answer  # reuse your functions
+from agent_core import route_to_tool, run_tool, llm_answer
+
 
 st.set_page_config(page_title="Healthcare AI Agent (Local)", layout="wide")
 
