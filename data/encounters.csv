@@ -1,0 +1,8 @@
+﻿encounter_id,patient_id,date,visit_type,icd10
+E1001,P001,2025-10-02,PrimaryCare,E11
+E1002,P001,2025-12-15,Endocrinology,E11
+E1003,P002,2025-09-20,PrimaryCare,I10
+E1004,P003,2025-11-01,UrgentCare,J06
+E1005,P004,2025-08-18,PrimaryCare,E78
+E1006,P005,2025-12-05,PrimaryCare,E11
+E1007,P006,2025-07-09,PrimaryCare,F41
